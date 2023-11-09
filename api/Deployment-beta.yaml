@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: neodev
+  namespace: dev
+  labels:
+    app: neodev
+spec:
+  replicas: 1
+  revisionHistoryLimit: 0
+  selector:
+    matchLabels:
+      app: neodev
+  template:
+    metadata:
+      labels:
+        app: neodev
+    spec:
+      containers:
+      - name: neodev
+        image: registry-np.geminisolutions.com/neo/neo-api
+        ports:
+          - name: neodev
+            containerPort: 8080
+        imagePullPolicy: Always
+      imagePullSecrets:
+      - name: regcred

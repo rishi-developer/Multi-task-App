@@ -1,0 +1,1 @@
+CREATE TABLE guest_user(id SERIAL PRIMARY KEY,name character varying COLLATE pg_catalog."default",user_name character varying COLLATE pg_catalog."default",password character varying COLLATE pg_catalog."default",token character varying COLLATE pg_catalog."default",is_guest_user boolean,events character varying[] COLLATE pg_catalog."default")

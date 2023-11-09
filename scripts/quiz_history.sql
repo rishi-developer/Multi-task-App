@@ -1,0 +1,1 @@
+CREATE TABLE quiz_history(id SERIAL PRIMARY KEY,email character varying COLLATE pg_catalog."default",history character varying[] COLLATE pg_catalog."default")

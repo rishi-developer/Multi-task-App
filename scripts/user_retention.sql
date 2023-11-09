@@ -1,0 +1,1 @@
+CREATE TABLE user_retention(id SERIAL PRIMARY KEY,date character varying COLLATE pg_catalog."default",new_user character varying COLLATE pg_catalog."default",old_user character varying COLLATE pg_catalog."default")

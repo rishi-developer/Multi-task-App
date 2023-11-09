@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156429526187-athtfbmtr89066ck979vbgnnlotodcp1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156429526187-athtfbmtr89066ck979vbgnnlotodcp1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>156429526187-or0529bguo04rj5cnktq5e6po48vncpa.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbtLggxDbZUv-jYQ7ZqCoP4HjiicfqrVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156429526187</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Neo.MobileApp.co</string>
+	<key>PROJECT_ID</key>
+	<string>testfcm-e5b17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testfcm-e5b17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156429526187:ios:b036efed3bb55d4085c3ee</string>
+</dict>
+</plist>

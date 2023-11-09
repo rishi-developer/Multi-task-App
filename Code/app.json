@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Neo",
+    "slug": "Neo",
+    "version": "1.5.8",
+    "orientation": "portrait",
+    "icon": "./assets/images/Blank.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg",
+        "cjs"
+      ]
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 3000
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "Neo.MobileApp.co",
+      "buildNumber": "58",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "Neo.GemMobil",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Blank.png",
+        "backgroundColor": "#ffffff"
+      },
+      "allowBackup": false
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "4e6d72b3-3219-4e0d-a004-dd7f00969578"
+      }
+    }
+  }
+}

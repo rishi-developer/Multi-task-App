@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156429526187",
+    "project_id": "testfcm-e5b17",
+    "storage_bucket": "testfcm-e5b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156429526187:android:ab13392c9e5911f385c3ee",
+        "android_client_info": {
+          "package_name": "Neo.GemMobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156429526187-or0529bguo04rj5cnktq5e6po48vncpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Neo.GemMobil",
+            "certificate_hash": "49c13c5588040ee71beb6de56ce2e2230dd36537"
+          }
+        },
+        {
+          "client_id": "156429526187-sj7uvl4tsdnt66hu51fuku3ihsp71vct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Neo.GemMobil",
+            "certificate_hash": "1247dd0e66d27fa5fd289cc16a59fab7adfbdc78"
+          }
+        },
+        {
+          "client_id": "156429526187-2656ag3s556l6v9jl3oebbhan5e85257.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvO36jyP9fIrNu4RCKpmQxcldE2p1VWQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156429526187-2656ag3s556l6v9jl3oebbhan5e85257.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

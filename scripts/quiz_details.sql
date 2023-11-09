@@ -1,0 +1,1 @@
+CREATE TABLE quiz_details(id SERIAL PRIMARY KEY,basic_details jsonb,questionare character varying[] COLLATE pg_catalog."default",submitted_user character varying[] COLLATE pg_catalog."default")

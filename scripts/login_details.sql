@@ -1,0 +1,1 @@
+CREATE TABLE login_details(id SERIAL PRIMARY KEY,email character varying COLLATE pg_catalog."default",first_check_in character varying COLLATE pg_catalog."default",last_check_in character varying COLLATE pg_catalog."default",count character varying COLLATE pg_catalog."default")
